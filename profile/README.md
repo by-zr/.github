@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">✨ by-zr Studio</h1>
 <p align="center"><em>Exploring creative coding, 3D, and generative art with Three.js.</em></p>
 
