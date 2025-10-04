@@ -14,7 +14,7 @@
 
 | Date | Certification | Domain | Link | Project |
 |------|----------------|---------|------|-----------|
-| Jan 2025 | AI200: Applied Machine Learning (Heicoders Academy) | Machine Learning, Python, Jupyter | <a href="https://cert.heicodersacademy.com/F8FVTSMSLY" target="_blank">Link</a> | XX |
+| Jan 2025 | AI200: Applied Machine Learning — Heicoders Academy | Machine Learning, Python, Jupyter | <a href="https://cert.heicodersacademy.com/F8FVTSMSLY" target="_blank">Credential</a> | Jupyter Notebook |
 
 
 </details>
