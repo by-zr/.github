@@ -2,29 +2,22 @@
 <p align="center"><em>Exploring creative coding, 3D, and generative art with Three.js.</em></p>
 
 <p align="center">
-  <a href="casilynzirui.tech">Portfolio Website</a> •
+  <a href="https://casilynzirui.tech" target="_blank">casilynzirui.tech</a>
 </p>
 
 ---
 
-## 🪪 Certifications
+## 🎓 Certifications
 
 <details open>
-  <summary><strong>▼ Click to view certifications</strong></summary>
+  <summary><strong>View certifications</strong></summary>
 
 | Date | Certification | Domain | Link | Project |
 |------|----------------|---------|------|-----------|
-| XX | XX | AWS | X | XX |
+| XX | XX | XX | X | XX |
 
 
 </details>
-
----
-
-## 🧠 Creative Focus
-> Building things that move — literally and emotionally.  
-> Three.js, generative art, and immersive UI are my playgrounds.  
-> I explore tools, code, and concepts that connect imagination to interaction.
 
 ---
 
