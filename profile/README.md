@@ -14,7 +14,7 @@
 
 | Date | Certification | Domain | Link | Project |
 |------|----------------|---------|------|-----------|
-| Jan 2025 | AI200: Applied Machine Learning | Machine Learning, Python, Pandas, Scikit-learn, Matplotlib, Jupyter | <a href="https://cert.heicodersacademy.com/F8FVTSMSLY" target="_blank">Credential</a> | Jupyter Notebook |
+| Jan 2025 | AI200: Applied Machine Learning | Machine Learning, Python, Pandas, Scikit-learn, Matplotlib, Jupyter | <a href="https://cert.heicodersacademy.com/F8FVTSMSLY" target="_blank">Credential</a> | <a href="https://github.com/by-zr/.github/blob/main/projects/heicoders-ai200-applied_machine_learning/AI200_CapstoneProject.ipynb" target="_blank">Jupyter Notebook</a> |
 | Jul 2022 | Unity Certified Associate: Game Developer | 3D Development, Game Design, Unity, C# | <a href="https://www.credly.com/badges/c6ce1da0-bb42-4f39-b9db-76e617823f60/linked_in_profile" target="_blank">Credential</a> | — |
 | Oct 2021 | Python Programming Intermediate | Python, NumPy, Pandas | <a href="https://au.badgr.com/public/assertions/KNFSDE7wT6S6FjtvINInlA?identity__email=zrsoong001@mymail.sim.edu.sg" target="_blank">Credential</a> | — |
 | Sep 2021 | Ethical Hacking | Kali Linux | <a href="https://au.badgr.com/public/assertions/dIuJPV29QS-lSHgWnY_0KA?identity__email=zrsoong001@mymail.sim.edu.sg" target="_blank">Credential</a> | — |
