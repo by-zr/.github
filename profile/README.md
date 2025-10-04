@@ -10,11 +10,11 @@
 ## 🎓 Certifications
 
 <details open>
-  <summary><strong>View certifications</strong></summary>
+  <summary><strong>Expand</strong></summary>
 
 | Date | Certification | Domain | Link | Project |
 |------|----------------|---------|------|-----------|
-| XX | XX | XX | X | XX |
+| Jan 2025 | AI200: Applied Machine Learning | Machine Learning, Python, Jupyter | <a href="https://cert.heicodersacademy.com/F8FVTSMSLY" target="_blank">Link</a> | XX |
 
 
 </details>
