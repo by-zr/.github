@@ -2,7 +2,8 @@
 <p align="center"><em>Learning journey across creative coding, 3D, generative art, and UX design.</em></p>
 
 <p align="center">
-  <a href="https://casilynzirui.tech" target="_blank">casilynzirui.tech</a>
+  <a href="https://casilynzirui.tech" target="_blank">casilynzirui.tech</a> •
+  <a href="https://github.com/casilynzirui" target="_blank">main profile</a>
 </p>
 
 ---
